@@ -4,11 +4,7 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
 * 300 nm Nb feedline
 *  30 nm Al KIDs
 
-Cooldowns:
------------
-
-    DC behavior
-    -----------
+# Cooldowns:
 
     Wire bonds @ room temp;
       center-ground: 864/936 ohm
