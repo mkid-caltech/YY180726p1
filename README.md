@@ -20,3 +20,7 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
    - center-ground: 877/OL ohm
    - center-center: OL ohm
    - maybe the wirebonds broke during warmup
+6. Re-wire-bonded on 180822
+7. Wire bonds @ room temp
+   - center-ground: 897/912 ohm
+   - center-center: 1836 ohm
