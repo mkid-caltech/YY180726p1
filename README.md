@@ -16,3 +16,7 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
 4. Wire Bonds @ 4K
    - center-ground: 0.9 ohm (measured @ 7K)
    - center-center: 1.5 ohm (measured @ 7K)
+5. Wire bonds @ room temp
+   - center-ground: 877/OL ohm
+   - center-center: OL ohm
+   - maybe the wirebonds broke during warmup
