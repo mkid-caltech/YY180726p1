@@ -24,3 +24,5 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
 7. Wire bonds @ room temp
    - center-ground: 897/912 ohm
    - center-center: 1836 ohm
+8. swp_243_-25dB_180828_DM_device-3-3p7GHz.mat
+   - Data taken in yellow dewar, around 245 mK. Using B140's HP 8720D VNA and the matlab data taking program
