@@ -13,6 +13,7 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
    - center-center: 1.8 ohm (measured @ 7K)
 3. 180820YY180726p1.h5
    - Data taken in 4K dewar, around 7K cold plate. Using B140's HP 8720D VNA
+   ![Alt text](s21.png "Title")
 4. Wire Bonds @ 4K
    - center-ground: 0.9 ohm (measured @ 7K)
    - center-center: 1.5 ohm (measured @ 7K)
