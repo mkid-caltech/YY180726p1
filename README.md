@@ -28,3 +28,8 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
    - Data taken in yellow dewar, around 245 mK. Using B140's HP 8720D VNA and the matlab data taking program
 9. 180828YY180726p2.h5
    - "swp_243_-25dB_180828_DM_device-3-3p7GHz.mat", but converted to an h5 file for the python programs
+10. Fridge Run # 39
+   - http://www.submm.caltech.edu/wiki/kids//Oxford_20Kelvinox_2025/attachments/180924Pictures.zip
+   - center-ground: 892/984 ohm
+   - center-center: 1773 ohm
+   - http://www.submm.caltech.edu/kids/Run_2339_20_28180926_29
