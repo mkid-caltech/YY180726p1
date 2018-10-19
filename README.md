@@ -34,3 +34,5 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
     - center-ground: 892/984 ohm
     - center-center: 1773 ohm
     - http://www.submm.caltech.edu/kids/Run_2339_20_28180926_29
+11. Fridge Run # 40
+    - http://www.submm.caltech.edu/kids/Run_2341_20_28181017_29
