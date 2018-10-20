@@ -36,6 +36,7 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
     - http://www.submm.caltech.edu/kids/Run_2339_20_28180926_29
 11. Fridge Run # 41
     - http://www.submm.caltech.edu/kids/Run_2341_20_28181017_29
+    - 181019YY180726p2.h5
      - On DR channel 1
      - 40 dB of attenuators before device
      - 1 dB of attenuator between device and HEMT 121 D
