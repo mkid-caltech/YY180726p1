@@ -36,3 +36,18 @@ YY180726.2: 80-Al-KIDs Nb-feedline device
     - http://www.submm.caltech.edu/kids/Run_2339_20_28180926_29
 11. Fridge Run # 41
     - http://www.submm.caltech.edu/kids/Run_2341_20_28181017_29
+     - On DR channel 1
+     - 40 dB of attenuators before device
+     - 1 dB of attenuator between device and HEMT 121 D
+     - HEMT 121 D bias:
+      - Id = 19.53 mA
+      - Vd = 2.915 V
+      - Vg = 1.734 V
+     - MC temp is pretty stable
+      - 62.53-62.66 mK on the Lake Shore
+      - 67.6-67.9 mK on the IGH
+     - fwinsize = 0.005 GHz
+     - power = -15 dBm
+     - fwinstart = 3 GHz
+     - fwinend = 3.8 GHz
+     - channels = S21, S22
